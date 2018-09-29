@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.973,=D:\Prace\FX Systems\Firefox Embadded\PrzegladarkaFirefoxfrm.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.157,C:\Users\Piotr Daszewski\Documents\RAD Studio\Projects\Project1.dproj=D:\Prace\FX Systems\Firefox Embadded\FirefoxEmbadded.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.787,C:\Users\Piotr Daszewski\Documents\RAD Studio\Projects\Unit1.dfm=D:\Prace\FX Systems\Firefox Embadded\AOknoGlfrm.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.838,=C:\Users\Piotr Daszewski\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.787,C:\Users\Piotr Daszewski\Documents\RAD Studio\Projects\Unit1.pas=D:\Prace\FX Systems\Firefox Embadded\AOknoGlfrm.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.485,=C:\Users\Piotr Daszewski\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.116,=C:\Users\Piotr Daszewski\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
